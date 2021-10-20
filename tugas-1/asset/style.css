@@ -1,0 +1,66 @@
+#main img {
+  width: 100%;
+}
+
+#main h1 {
+  font-size: 64px;
+  line-height: 1;
+}
+
+#main p {
+  font-size: 24px;
+}
+
+#main button {
+  padding: 15px 30px;
+}
+
+#main a {
+  color: gray;
+}
+
+#main a:hover {
+  color: gray;
+}
+
+#bs-icon h2,
+#bs-thema h2 {
+  font-size: 40px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: gray;
+}
+
+#footer a:hover {
+  text-decoration: underline;
+}
+
+#footer a.logo:hover {
+  text-decoration: none;
+}
+
+.navbar {
+  background-color: #0f2088;
+  color: white;
+}
+
+.navbar .nav-link,
+.navbar-toggler .navbar-toggler-icon {
+  color: white !important;
+}
+
+.navbar-toggler .navbar-toggler-icon {
+  background-image: none;
+}
+
+.navbar-light .navbar-toggler {
+  color: white;
+  border-color: white;
+}
+
+.navbar button:focus {
+  outline: none;
+  box-shadow: none;
+}

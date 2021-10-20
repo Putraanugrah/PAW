@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #3d2c8d;
+}
+.nav-text {
+  color: white !important;
+}
+.nav-link {
+  color: white !important;
+}
+
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color: #fef9ef;
+}
